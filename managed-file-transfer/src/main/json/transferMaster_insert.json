@@ -1,0 +1,42 @@
+{
+	"transferId": 1,
+	"applicationName": "order details ftp to sf",
+	"segments": [{
+			"segmentId": 101,
+			"parameters": [{
+					"paramId": 301,
+					"paramValue": "ftp://abc.com"
+				},
+				{
+					"paramId": 302,
+					"paramValue": "21"
+				}
+			]
+		},
+		{
+			"segmentId": 102,
+			"parameters": [{
+					"paramId": 301,
+					"paramValue": "ftp://abc.com"
+				},
+				{
+					"paramId": 302,
+					"paramValue": "21"
+				}
+			]
+		},
+		{
+			"segmentId": 103,
+			"parameters": [{
+					"paramId": 301,
+					"paramValue": "ftp://abc.com"
+				},
+				{
+					"paramId": 302,
+					"paramValue": "21"
+				}
+			]
+		}
+	]
+
+}
