@@ -3,6 +3,7 @@
 	"applicationName": "order details ftp to sf",
 	"segments": [{
 			"segmentId": 101,
+			"protocolId": 202,
 			"parameters": [{
 					"paramId": 301,
 					"paramValue": "ftp://abc.com"
@@ -15,6 +16,7 @@
 		},
 		{
 			"segmentId": 102,
+			"protocolId": 203,
 			"parameters": [{
 					"paramId": 301,
 					"paramValue": "ftp://abc.com"
@@ -27,6 +29,7 @@
 		},
 		{
 			"segmentId": 103,
+			"protocolId": 201,
 			"parameters": [{
 					"paramId": 301,
 					"paramValue": "ftp://abc.com"

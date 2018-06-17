@@ -1,0 +1,48 @@
+[ 
+{
+	"transferId": 1,
+	"applicationName": "order details ftp to sf",
+	"segments": [
+			{
+				"segmentId": 101,
+				"segmentDisplay": "Source",
+				"protocolId": 202,
+				"protocolDisplay": "FTP"
+			},
+			{
+				"segmentId"=102,
+				"segmentDisplay": "Target",
+				"protocolId": 203,
+				"protocolDisplay": "Shared Folder"
+			},
+			{
+				"segmentId"=103,
+				"segmentDisplay": "Common",
+				"protocolId": 201,
+				"protocolDisplay": "Not Applicable"
+			}
+},
+{
+	"transferId": 2,
+	"applicationName": "order details ftp to sf",
+	"segments": [
+			{
+				"segmentId": 101,
+				"segmentDisplay": "Source",
+				"protocolId": 202,
+				"protocolDisplay": "FTP"
+			},
+			{
+				"segmentId"=102,
+				"segmentDisplay": "Target",
+				"protocolId": 203,
+				"protocolDisplay": "Shared Folder"
+			},
+			{
+				"segmentId"=103,
+				"segmentDisplay": "Common",
+				"protocolId": 201,
+				"protocolDisplay": "Not Applicable"
+			}
+}
+]
